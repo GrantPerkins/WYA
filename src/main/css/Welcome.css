@@ -1,0 +1,18 @@
+.Media {
+    /*height: 100px;*/
+    width:200px;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-top: 10%;
+}
+
+.Buttons {
+    padding-top: 150px;
+}
+
+.Login {
+    padding-top: 150px;
+}

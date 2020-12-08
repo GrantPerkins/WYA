@@ -1,0 +1,13 @@
+div.MapView {
+    height: 500px;
+}
+
+.dot {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
